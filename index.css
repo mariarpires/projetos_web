@@ -1,0 +1,11 @@
+img{
+    border-radius: 100px;
+}
+ul{
+    margin: 10;
+    display: contents;
+}
+body{
+    display: flex;
+    justify-content: center;
+}

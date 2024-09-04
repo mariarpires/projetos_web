@@ -1,0 +1,49 @@
+.video-container{
+    position: relative;
+    width: 640px;
+}
+.controls{
+    background-color: aquamarine;
+    color: beige;
+
+    display: flex;
+    padding: 10px;
+    width: 640px;
+    bottom: 0;
+    left: 0;
+}
+.controls button, .controls input{
+    margin-right: 10px;
+}
+video{
+    width: 100%;
+    height: auto;
+}
+
+button{
+    border-radius: 8px;
+}
+h1{
+    text-align: center;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+}
+
+.audio{
+    display: flex;
+    justify-content: center;
+}
+
+.iframe{
+    display: flex;
+    justify-content: center;
+}

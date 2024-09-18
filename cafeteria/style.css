@@ -1,0 +1,68 @@
+body{
+    background-image: url(imagens/Post\ cappuccino\ para\ cafeteria\ story\ do\ instagram.png);
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    text-align: center;
+    color:#5e382b
+    
+}
+  
+h2 {
+    font-size: 15px;
+    color: #5e382b
+}
+
+h3{
+    font-size: 15px;
+    color: #5e382b;
+    text-align: center;
+}
+  
+.established {
+    font-style: italic;
+}
+
+.menu {
+    width: 80%;
+    background-color: #ddba8b;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    border-radius: 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+  
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+}
+  
+hr {
+    height: 4px;
+    background-color: rgb(#7a5447);
+    border-color: rgb(#7a5447);
+}
+footer{
+    background-color: rgba(#a97a5b);
+    height: 30px;
+    text-align: center;
+    color: #5e382b;
+}
+
+.flavor{
+    text-align: left;
+    width: 500px;
+}
+
+.price{
+    text-align: right;
+    width: 500px;
+}
